@@ -7,3 +7,7 @@ python-jose
 python-multipart
 uvicorn
 SQLAlchemy
+websockets
+starlette
+pydantic
+gunicorn
