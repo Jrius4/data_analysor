@@ -18,6 +18,7 @@ jdcal
 joblib
 openpyxl
 pandas
+numpy
 passlib
 pyasn1
 pycparser
